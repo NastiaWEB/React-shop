@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+width="24" height="24"
+viewBox="0 0 192 192">
+<g transform="translate(12,12) scale(0.9,0.9)">
+<g fill="none" fill-rule="nonzero" stroke="none" stroke-width="none" stroke-linecap="butt" stroke-linejoin="none" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal">
+<g fill="#fff" class="icon_heart" stroke="#333" stroke-width="28" stroke-linejoin="round">
+<path d="M176,68c0,33.368 -39.296,65.704 -50.248,75.92c-12.616,11.76 -29.752,26.88 -29.752,26.88c0,0 -17.136,-15.12 -29.752,-26.88c-10.952,-10.216 -50.248,-42.552 -50.248,-75.92c0,-24.304 19.696,-44 44,-44c23.16,0 36,16.72 36,16.72c0,0 12.84,-16.72 36,-16.72c24.304,0 44,19.696 44,44z">
+</path>
+</g>
+<path d="M0,192v-192h192v192z" fill="none"  stroke="none" stroke-width="1" stroke-linejoin="miter"></path><path d="" fill="none" stroke="none" stroke-width="1" stroke-linejoin="miter"></path><path d="" fill="none" stroke="none" stroke-width="1" stroke-linejoin="miter"></path><g fill="#ffffff" stroke="none" stroke-width="1" stroke-linejoin="miter"><path class="icon_heart" d="M132,24c-23.16,0 -36,16.72 -36,16.72c0,0 -12.84,-16.72 -36,-16.72c-24.304,0 -44,19.696 -44,44c0,33.368 39.296,65.704 50.248,75.92c12.616,11.76 29.752,26.88 29.752,26.88c0,0 17.136,-15.12 29.752,-26.88c10.952,-10.216 50.248,-42.552 50.248,-75.92c0,-24.304 -19.696,-44 -44,-44z"></path></g><path d="" fill="none" stroke="none" stroke-width="1" stroke-linejoin="miter">
+</path>
+</g></g></svg>
